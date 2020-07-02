@@ -1,1 +1,1 @@
-# real-estate-agency-portal
+# The Real estate agency portal is a web-application built using HTML, CSS and Django. The users can sign-up and log-in to the system and can select fromm a list of cities which of each contain different properties. Each property can be viewed in greater detail if the user is interested in the same. The user can then contact the real estate agent who is in charge of that particular property if they want to buy or lease it out according to the availability. 
